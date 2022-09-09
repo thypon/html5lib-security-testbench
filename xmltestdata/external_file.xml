@@ -1,0 +1,4 @@
+<!DOCTYPE external [
+<!ENTITY ee SYSTEM "file:///Users/gattuso/Workspace/html5lib-tests/xmltestdata/simple.xml">
+]>
+<root>&ee;</root>
